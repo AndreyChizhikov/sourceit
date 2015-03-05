@@ -645,6 +645,7 @@ footer{
 	width: 620px;
 	padding-left: 20px;
 	position: relative;
+	overflow: hidden;
 }
 .winners-left h3{
 	color: #113a5a;
@@ -657,7 +658,6 @@ footer{
 .gallery{
 	display: block;
 	position: relative;
-	width: 600px;
 	height: 200px;
 	margin: 0px;
 	overflow: hidden;
